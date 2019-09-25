@@ -1,0 +1,13 @@
+{
+  "name": "youversion-web-growth-ideas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "remark .",
+    "lint-fix": "remark . --output"
+  },
+  "dependencies": {
+    "remark-cli": "^7.0.0",
+    "remark-preset-lint-recommended": "^3.0.3"
+  }
+}
