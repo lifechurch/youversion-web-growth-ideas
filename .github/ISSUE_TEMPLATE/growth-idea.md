@@ -3,7 +3,7 @@ name: Growth idea
 about: Suggest an idea for growth (SEO, Organic Traffic, the like) for bible.com
 title: 'Growth idea: '
 labels: growth
-assignees: NdagiStanley
+assignees: ''
 
 ---
 
