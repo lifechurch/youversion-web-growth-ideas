@@ -10,7 +10,7 @@ assignees: ''
 **Describe the idea you have in mind**
 A clear and concise description of what you would like to happen.
 
-**Defence for the idea**
+**Defense for the idea**
 - How the idea will improve growth?
 - What area of growth it will improve?
 - What do you think is estimated level of effort to implement this?
