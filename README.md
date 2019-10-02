@@ -14,11 +14,11 @@ First, check to see if your idea has already been presented. If it has, feel fre
 
 When completing the submission form; be sure to include any examples of the change, indicate an estimated level of effort, and finally tell us how the idea will improve organic search performance for [Bible.com](https://www.bible.com)
 
-## Have Other Ideas or Found a Bug
+## Have Other Ideas or Found a Bug?
 
 We are currently focusing on improving our organic traffic. However, we would enjoy hearing about any ideas you have that could help grow the reach of [Bible.com](https://www.bible.com)! Please fill out the suitable [issue template](https://github.com/lifechurch/youversion-web-growth-ideas/issues/new/choose) to submit your bug or idea.
 
-## Looking for other ways to contribute
+## Looking for other ways to contribute?
 
 Are you a Python wrestler? Is JavaScript your primary love language? Do you know how to keep all the Rubies on their Rails? Lend us some of your brain cycles by signing up as a [Developer volunteer](https://www.youversion.com/volunteers/)!
 
