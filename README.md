@@ -12,7 +12,7 @@ All growth ideas are tracked and discussed using GitHub issues.
 
 First, check to see if your idea has already been presented. If it has, feel free to add to the conversation by commenting on the idea. If it hasn't, start the conversation by filling out a [growth idea](https://github.com/lifechurch/youversion-web-growth-ideas/issues/new?labels=growth&template=growth-idea.md&title=) submission.
 
-When completing the template, be sure to include any examples of the change, indicate an estimated level of effort, and finally tell us how the idea will improve organic search performance to [Bible.com](https://www.bible.com)
+When completing the submission form; be sure to include any examples of the change, indicate an estimated level of effort, and finally tell us how the idea will improve organic search performance for [Bible.com](https://www.bible.com)
 
 ## Have Other Ideas or Found a Bug
 
